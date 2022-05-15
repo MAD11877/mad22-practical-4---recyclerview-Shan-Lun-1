@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 4/app/src/main/res/layout/activity_list.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 4/app/src/main/res/layout/activity_list_layout_one.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 4/app/src/main/res/layout/activity_list_layout_two.xml" value="0.25" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 4/app/src/main/res/layout/activity_main.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 4/app/src/main/res/layout/activity_message_group.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 4/app/src/main/res/layout/fragment_message_group_group_one.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/gohsh/OneDrive - Ngee Ann Polytechnic/Documents/NP/NP 2022 S1/MAD/Week 4/app/src/main/res/layout/fragment_message_group_group_two.xml" value="0.20969202898550723" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android API 32 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
